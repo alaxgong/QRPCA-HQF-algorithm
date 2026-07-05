@@ -1,0 +1,25 @@
+# License
+
+Copyright (c) 2026 First Author Gu. All rights reserved.
+
+This repository contains the official implementation of the paper:
+
+**Color Image Denoising via Quaternion-Based Nonconvex Half-Quadratic Regularized Robust PCA**
+
+## Permission
+
+Permission is granted to use, copy, modify, and distribute this software for **non-commercial research and educational purposes only**, provided that:
+
+1. This copyright notice and this license are retained in all copies or substantial portions of the software.
+2. Appropriate citation is given to the associated paper in any published work using this software.
+3. Any modifications to the source code are clearly documented.
+
+## Restrictions
+
+Commercial use of this software, in whole or in part, is **strictly prohibited** without prior written permission from the copyright holder.
+
+The software may not be sold, sublicensed, or incorporated into any commercial product or service without explicit authorization.
+
+## Disclaimer
+
+This software is provided "as is", without warranty of any kind, express or implied. The authors shall not be liable for any claim, damages, or other liability arising from the use of this software.
